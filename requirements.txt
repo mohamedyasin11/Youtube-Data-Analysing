@@ -2,6 +2,6 @@ google-api-python-client==2.0.2
 streamlit
 streamlit_option_menu
 pymongo
-dateutil
+python-dateutil==2.8.2
 isodate
 Pillow>=8.0.0
