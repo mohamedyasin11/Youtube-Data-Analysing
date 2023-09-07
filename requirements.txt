@@ -1,4 +1,4 @@
-googleapiclient
+google-api-python-client==2.0.2
 streamlit
 streamlit_option_menu
 pymongo
