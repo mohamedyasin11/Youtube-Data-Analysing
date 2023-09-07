@@ -1,4 +1,4 @@
-googleapiclient.discover
+googleapiclient
 streamlit
 streamlit_option_menu
 pymongo
