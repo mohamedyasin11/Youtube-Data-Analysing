@@ -1,0 +1,7 @@
+googleapiclient.discover
+streamlit
+streamlit_option_menu
+pymongo
+dateutil
+isodate
+Pillow>=8.0.0
