@@ -10,8 +10,8 @@ import isodate
 from dateutil import parser
 
 # inserting the image and videos
-pht = Image.open(r'C:\Users\ELCOT\yt\Youtube_logo.png')
-pht1 = Image.open(r'C:\Users\ELCOT\yt\youtube.jpg')
+pht = Image.open(r'Image/Youtube_logo.png')
+pht1 = Image.open(r'Image/youtube.jpg')
 
 # setting page title
 st.set_page_config(page_title='YouTube Data Analysing',page_icon= pht ,layout="wide")
