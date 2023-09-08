@@ -5,3 +5,4 @@ pymongo
 python-dateutil==2.8.2
 isodate
 Pillow>=8.0.0
+plotly
